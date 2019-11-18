@@ -8,7 +8,9 @@ namespace Reverse
 		static void Main(string[] args)
 		{
 			var numberOfElements = int.Parse(Console.ReadLine());
+
 			var elements = new int[numberOfElements];
+
 			for (int i = 0; i < numberOfElements; i++)
 			{
 				elements[i] = int.Parse(Console.ReadLine());
