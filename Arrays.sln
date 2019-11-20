@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reverse", "Reverse\Reverse.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DaysOfTheWeek", "DaysOfTheWeek\DaysOfTheWeek.csproj", "{5AD55550-F6CE-4C63-81ED-29D260A5FE46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoundingNumbers", "RoundingNumbers\RoundingNumbers.csproj", "{503C767C-4FE9-4F8C-AE35-4A22B08F65EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RoundingNumbers", "RoundingNumbers\RoundingNumbers.csproj", "{503C767C-4FE9-4F8C-AE35-4A22B08F65EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CondenseArrayToNumber", "CondenseArrayToNumber\CondenseArrayToNumber.csproj", "{4B9C91E5-3B74-46A2-BDB5-FCD454C5D982}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{503C767C-4FE9-4F8C-AE35-4A22B08F65EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{503C767C-4FE9-4F8C-AE35-4A22B08F65EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{503C767C-4FE9-4F8C-AE35-4A22B08F65EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B9C91E5-3B74-46A2-BDB5-FCD454C5D982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B9C91E5-3B74-46A2-BDB5-FCD454C5D982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B9C91E5-3B74-46A2-BDB5-FCD454C5D982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B9C91E5-3B74-46A2-BDB5-FCD454C5D982}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
