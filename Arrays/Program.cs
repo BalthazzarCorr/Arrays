@@ -4,7 +4,7 @@ namespace Arrays
 {
 	class Program
 	{
-		static void Main(string[] args)
+		static void Main()
 		{
 			var numberOfElements = int.Parse(Console.ReadLine());
 
