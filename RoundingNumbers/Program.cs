@@ -12,18 +12,19 @@ namespace RoundingNumbers
 
          
 
-            int[] numbers = new int [input.Length];
+            double[] numbers = new Double [input.Length];
 
 
             for (var i = 0; i < numbers.Length; i++)
             {
 
-                numbers[i] = int.Parse(input[i]);
+                numbers[i] = double.Parse(input[i]);
             }
 
             foreach (var number in numbers)
             {
-                Console.WriteLine(number);
+                var temp = Math.Round(number, MidpointRounding.AwayFromZero);
+                Console.WriteLine($"{number} => {temp}");
             }
         }
     }
