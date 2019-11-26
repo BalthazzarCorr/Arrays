@@ -4,7 +4,7 @@ namespace DaysOfTheWeek
 {
 	class Program
 	{
-		static void Main(string[] args)
+		static void Main()
 		{
 			var day = int.Parse(Console.ReadLine());
 
