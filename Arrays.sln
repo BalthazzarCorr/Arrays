@@ -13,15 +13,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RoundingNumbers", "Rounding
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CondenseArrayToNumber", "CondenseArrayToNumber\CondenseArrayToNumber.csproj", "{4B9C91E5-3B74-46A2-BDB5-FCD454C5D982}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Train", "Train\Train.csproj", "{562EEAFE-9D0B-48F0-BD08-7AF7C5C05C5B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Train", "Train\Train.csproj", "{562EEAFE-9D0B-48F0-BD08-7AF7C5C05C5B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonElements", "CommonElements\CommonElements.csproj", "{1FBCB784-8306-459F-AE68-ABAE97112676}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommonElements", "CommonElements\CommonElements.csproj", "{1FBCB784-8306-459F-AE68-ABAE97112676}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zig-ZagArrays", "Zig-ZagArrays\Zig-ZagArrays.csproj", "{EA381029-AFC5-4792-8EC5-8413F4729643}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zig-ZagArrays", "Zig-ZagArrays\Zig-ZagArrays.csproj", "{EA381029-AFC5-4792-8EC5-8413F4729643}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrRotation", "ArrRotation\ArrRotation.csproj", "{548B7C21-ABF2-4A62-ABE0-013B819E1E03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrRotation", "ArrRotation\ArrRotation.csproj", "{548B7C21-ABF2-4A62-ABE0-013B819E1E03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopIntegers", "TopIntegers\TopIntegers.csproj", "{DB3C2398-8BE9-46FD-AC46-1C502B9FBA25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TopIntegers", "TopIntegers\TopIntegers.csproj", "{DB3C2398-8BE9-46FD-AC46-1C502B9FBA25}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EqualSum", "EqualSum\EqualSum.csproj", "{BDCDCA9B-00EE-44EE-BEA3-3545CEC4F12B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxSequenceOfEqualElements", "MaxSequenceOfEqualElements\MaxSequenceOfEqualElements.csproj", "{2ED96C65-9460-4E16-BF03-7E0230B2F7CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayGroundProg", "PlayGroundProg\PlayGroundProg.csproj", "{A0F16CC5-5603-4ED5-89E5-2E5E524324CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +75,18 @@ Global
 		{DB3C2398-8BE9-46FD-AC46-1C502B9FBA25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB3C2398-8BE9-46FD-AC46-1C502B9FBA25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB3C2398-8BE9-46FD-AC46-1C502B9FBA25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDCDCA9B-00EE-44EE-BEA3-3545CEC4F12B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDCDCA9B-00EE-44EE-BEA3-3545CEC4F12B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDCDCA9B-00EE-44EE-BEA3-3545CEC4F12B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDCDCA9B-00EE-44EE-BEA3-3545CEC4F12B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ED96C65-9460-4E16-BF03-7E0230B2F7CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ED96C65-9460-4E16-BF03-7E0230B2F7CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ED96C65-9460-4E16-BF03-7E0230B2F7CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ED96C65-9460-4E16-BF03-7E0230B2F7CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0F16CC5-5603-4ED5-89E5-2E5E524324CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0F16CC5-5603-4ED5-89E5-2E5E524324CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0F16CC5-5603-4ED5-89E5-2E5E524324CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0F16CC5-5603-4ED5-89E5-2E5E524324CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
